@@ -18,7 +18,7 @@ spec:
     spec:
       containers:
         - name: java-app
-          image: foolsdomain/java-app:latest
+          image: foolsdomain/agile-fat:latest
 
 ---
 apiVersion: v1
